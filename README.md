@@ -10,8 +10,10 @@ Thanks to @anse1 for [his explanation](https://github.com/anse1/olimex-ice40-not
 
 More (hopefuly) to be come!
 
-Use the script piflasher.sh to flash your *.bin bitstream, the script needs to give the name of the 
+Use the script **piflasher.sh** to flash your *.bin bitstream, the script needs to give the name of the 
 file to flash!
+
+In case, give execution permission to the script, using `chmod +x piflasher.sh`. Execute using `./piflasher.sh`
 
 
 ### Requirements
